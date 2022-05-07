@@ -1,5 +1,5 @@
 import random
-
+# this is a simple program to play rock paper scissors against the PC
 print("ROCK!")
 print("PAPER")
 print("SCISSORS!")
